@@ -17,7 +17,6 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
 </a>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p align="center">📋Main Language<br /><br /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" /></p>
 
