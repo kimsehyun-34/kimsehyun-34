@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sehyun's%20GitHub%20GateWay&descAlignY=51&descAlign=62)
 
-[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/FURY312}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi 안녕 🤗
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFURY312&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center"><a href="https://blog.naver.com/kimsehyun34" target="_green"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&amp;logo=Tistory&amp;logoColor=white" /></a> </p>
 
