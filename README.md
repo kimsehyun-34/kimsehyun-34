@@ -4,7 +4,6 @@
 
 <p align="center"><a href="https://blog.naver.com/kimsehyun34" target="_green"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&amp;logo=Tistory&amp;logoColor=white" /></a> </p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 <p align="center"><strong>⚒️Tech Stack⚒️</strong></p>
 
 <p align="center">📋Main <br /><br /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" /></p>
