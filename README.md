@@ -13,15 +13,11 @@
 
 <p align="center"><a href="https://blog.naver.com/kimsehyun34" target="_green"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&amp;logo=Tistory&amp;logoColor=white" /></a> </p>
 
-<a href="mail: about7086@gmail.com">
-  about7086@gmail.com
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo= Gmaill&logoColor=white&link=about7086@gmail.com"/><p>about7086@gmail.com<br>
-</a>
-
-
 <p align="center">📋Main Language<br /><br /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" /></p>
 
 <p align="center">📋can read lol</p>
 <p align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" /> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" /> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" /></p>
+
+<p style="text-align: center;">✉️Mail: about7086@gmail.com</p>
 
 ![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto)
