@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sehyun's%20GitHub%20GateWay&descAlignY=51&descAlign=62)
 
-<img src="https://github-readme-stats.vercel.app/api?username=FURY312&show_icons=true&theme=tokyonight">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FURY312)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FURY312&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FURY312)](https://github.com/anuraghazra/github-readme-stats)
 
