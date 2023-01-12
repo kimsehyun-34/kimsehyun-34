@@ -14,7 +14,7 @@
 <p align="center"><a href="https://blog.naver.com/kimsehyun34" target="_green"><img src="https://img.shields.io/badge/Tistory-535D6C?style=flat-square&amp;logo=Tistory&amp;logoColor=white" /></a> </p>
 
 <a href="mail: about7086@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=about7086@gmail.com"/>
 </a>
 
 
