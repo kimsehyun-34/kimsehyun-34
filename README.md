@@ -24,11 +24,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=" width="164" height="25" />&nbsp; &nbsp;&nbsp;<img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&amp;logo=Windows 11&amp;logoColor=FFFFFF" width="109" height="25" /></p>
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor="/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon EC2&logoColor="/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=FFFFFF"/>
-<p><img src="https://img.shields.io/badge/Lightroom-041E42?style=flat-square&amp;logo=Adobe Lightroom&amp;logoColor=FFFFFF" width="100" height="23" /></p>
+<p><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon AWS&amp;logoColor=" />&nbsp;<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=" /> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&amp;logo=Unity&amp;logoColor=000000" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&amp;logo=Blender&amp;logoColor=FFFFFF" />&nbsp;<img src="https://img.shields.io/badge/Lightroom-041E42?style=flat-square&amp;logo=Adobe Lightroom&amp;logoColor=FFFFFF" width="100" height="23" /></p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)<!-- 메일 -->
 
