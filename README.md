@@ -2,7 +2,7 @@
 
 <h1>Hi 안녕, 반가워요! 🤗</h1>
 
-<a href="mailto:about7086@gmail.com">
+<a href="mailto:about70860@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=about7086@gmail.com"/>
 </a>
 
