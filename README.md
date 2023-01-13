@@ -22,7 +22,7 @@
 
 <p>&nbsp;</p>
 
-<p><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=" width="164" height="25" />&nbsp; &nbsp;&nbsp;<img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&amp;logo=Windows 11&amp;logoColor=FFFFFF" width="109" height="25" /></p>
+<p align="center"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=" width="164" height="25" />&nbsp; &nbsp;&nbsp;<img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&amp;logo=Windows 11&amp;logoColor=FFFFFF" width="109" height="25" /></p>
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor="/>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon EC2&logoColor="/>
