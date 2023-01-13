@@ -20,6 +20,8 @@
 
 <p>&nbsp;</p>
 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor="/>
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)<!-- 메일 -->
 
 <h3 align="center">✉️Mail: about7086@gmail.com</h3>
