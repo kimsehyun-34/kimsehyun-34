@@ -14,9 +14,9 @@
 
 <p>&nbsp;</p>
 
-<h2 align="center">📋Main Language<br />
+<h3 align="center">📋Main Language<br />
 <p>&nbsp;</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" /></h2>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" /></h3>
 
 <h3 align="center">📋only read..maybe</h3>
 <p align="center"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" /> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" /> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" /></p>
