@@ -21,6 +21,7 @@
 <p>&nbsp;</p>
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor="/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor="/>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)<!-- 메일 -->
 
