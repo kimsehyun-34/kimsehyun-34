@@ -28,6 +28,8 @@
 <h3 align="center">📋add+</h3>
 <p align="center"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon AWS&amp;logoColor=" width="129" height="25" />&nbsp;<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=" width="129" height="25" /> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&amp;logo=Unity&amp;logoColor=000000" width="71" height="25" /> <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&amp;logo=Blender&amp;logoColor=FFFFFF" width="89" height="25" />&nbsp;<img src="https://img.shields.io/badge/Lightroom-041E42?style=flat-square&amp;logo=Adobe Lightroom&amp;logoColor=FFFFFF" width="109" height="25" />&nbsp;<img src="https://img.shields.io/badge/Photoshop-041E42?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=FFFFFF" width="109" height="25" /></p>
 
+<p>&nbsp;</p>
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)<!-- 메일 -->
 
 <h3 align="center">✉️Mail: about7086@gmail.com</h3>
