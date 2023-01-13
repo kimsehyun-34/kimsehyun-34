@@ -18,7 +18,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 <h3 align="center">✉️Mail: about7086@gmail.com</h3>
 
-<p><a href="mailto:about7086@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=about7086@gmail.com" width="94" height="32" /> </a></p>
+<p align="center"><a href="mailto:about7086@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=about7086@gmail.com" width="94" height="32" /> </a></p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
