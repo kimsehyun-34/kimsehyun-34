@@ -18,7 +18,7 @@
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="126" height="36" /></p></h3>
 <p>&nbsp;</p>
 <h3 align="center">📋only read..maybe</h3>
-<p align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=black" width="60" height="30" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" width="136" height="30" /> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" width="74" height="30" /> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="86" height="30" /></p>
+<p align="center"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=white" width="50" height="30" /> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" width="136" height="30" /> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" width="74" height="30" /> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="86" height="30" /></p>
 
 <p>&nbsp;</p>
 <h3 align="center">📋Tool</h3>
