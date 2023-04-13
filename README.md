@@ -8,6 +8,7 @@
 <p><a style="text-align: -webkit-center;" href="https://blog.naver.com/kimsehyun34" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="32" /></a><a style="text-align: -webkit-center;" href="https://kimsehyun.site/" target="_blank" rel="noopener">&nbsp;&nbsp; <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=Tistory&amp;logoColor=FFFFFF" width="108" height="33" /></a></p>
 
 <p>&nbsp;</p>
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)<!-- 언어설명 -->
 
 <p>&nbsp;</p>
