@@ -1,15 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sehyun's%20GitHub%20GateWay&descAlignY=51&descAlign=62)
 
 <h1>Hi , 반가워요! 🤗</h1>
-
-
 <p><a href="https://hits.seeyoufarm.com"> <img style="float: left;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFURY312&amp;count_bg=%235264A8&amp;title_bg=%23222141&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=%EB%B0%A9%EB%AC%B8%EC%9E%90&amp;edge_flat=false" width="170" height="26" /></a></p>
-<p>&nbsp;</p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p>&nbsp;</p>
-<p><a style="text-align: -webkit-center;" href="https://blog.naver.com/kimsehyun34" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="32" /></a><a style="text-align: -webkit-center;" href="https://kimsehyun.site/" target="_blank" rel="noopener">&nbsp;&nbsp; <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=Tistory&amp;logoColor=FFFFFF" width="108" height="33" /></a></p>
+<h3 align="center">✒️Blog <br />
+<p>&nbsp;</p>
+<p align="center"><a style="text-align: -webkit-center;" href="https://blog.naver.com/kimsehyun34" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="32" /></a><a style="text-align: -webkit-center;" href="https://kimsehyun.site/" target="_blank" rel="noopener">&nbsp;&nbsp; <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=Tistory&amp;logoColor=FFFFFF" width="108" height="33" /></a></p>
 
 <p>&nbsp;</p>
 
