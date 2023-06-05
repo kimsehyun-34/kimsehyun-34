@@ -6,7 +6,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p>&nbsp;</p>
-<h3 align="center">✒️Blog <br />
+<h3 align="center">✒️Blog </h3>
 <p align="center"> 아이콘을 클릭하면 블로그로 이동됩니다 <br />
 <p>&nbsp;</p>
 <p align="center"><a style="text-align: -webkit-center;" href="https://blog.naver.com/kimsehyun34" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="32" /></a><a style="text-align: -webkit-center;" href="https://kimsehyun.site/" target="_blank" rel="noopener">&nbsp;&nbsp; <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&amp;logo=Tistory&amp;logoColor=FFFFFF" width="108" height="33" /></a></p>
