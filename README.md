@@ -19,18 +19,32 @@
 
 <h3 align="center">📋Main Language<br />
 <p>&nbsp;</p>
-<p><img style="border-radius:10px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="126" height="36" /></p></h3>
+<p>
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="126" height="36" /></p></h3>
 <p>&nbsp;</p>
+
 <h3 align="center">📋Secondary Languages</h3>
-<p align="center"><img style="border-radius:10px" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=black" width="52" height="30" /> <img style="border-radius:10px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" width="136" height="30" /> <img style="border-radius:10px" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" width="74" height="30" /> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="86" height="30" /></p>
+<p align="center">
+  <img style="border-radius:10px" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=black" width="52" height="30" /> 
+  <img style="border-radius:10px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" width="136" height="30" /> 
+  <img style="border-radius:10px" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" width="74" height="30" /> 
+  <img style="border-radius:10px" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="86" height="30" /></p>
 
 <p>&nbsp;</p>
 <h3 align="center">📋Tool</h3>
-<p align="center"><img style="border-radius:10px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=" width="164" height="25" />&nbsp; &nbsp;&nbsp;<img style="border-radius:10px" src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&amp;logo=Windows 11&amp;logoColor=FFFFFF" width="109" height="25" /></p>
+<p align="center">
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=Visual Studio Code&amp;logoColor=" width="164" height="25" />&nbsp; &nbsp;&nbsp;
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&amp;logo=Windows 11&amp;logoColor=FFFFFF" width="109" height="25" /></p>
 
 <p>&nbsp;</p>
 <h3 align="center">🔧Additional tools</h3>
-<p align="center"><img style="border-radius:10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon AWS&amp;logoColor=" width="129" height="25" />&nbsp;<img style="border-radius:10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=" width="129" height="25" /> <img style="border-radius:10px" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&amp;logo=Unity&amp;logoColor=000000" width="71" height="25" /> <img style="border-radius:10px" src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&amp;logo=Blender&amp;logoColor=FFFFFF" width="89" height="25" />&nbsp;<img src="https://img.shields.io/badge/Lightroom-041E42?style=flat-square&amp;logo=Adobe Lightroom&amp;logoColor=FFFFFF" width="109" height="25" />&nbsp;<img style="border-radius:10px" src="https://img.shields.io/badge/Photoshop-041E42?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=FFFFFF" width="109" height="25" /></p>
+<p align="center">
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon AWS&amp;logoColor=" width="129" height="25" />&nbsp;
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=" width="129" height="25" /> 
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&amp;logo=Unity&amp;logoColor=000000" width="71" height="25" /> 
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&amp;logo=Blender&amp;logoColor=FFFFFF" width="89" height="25" />&nbsp;
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Lightroom-041E42?style=flat-square&amp;logo=Adobe Lightroom&amp;logoColor=FFFFFF" width="109" height="25" />&nbsp;
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Photoshop-041E42?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=FFFFFF" width="109" height="25" /></p>
 
 <p>&nbsp;</p>
 
