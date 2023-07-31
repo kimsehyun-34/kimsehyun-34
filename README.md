@@ -8,7 +8,7 @@
 <p>&nbsp;</p>
 <h3 align="center">✒️Blog </h3>
 <p>&nbsp;</p>
-<p align="center"><a style="text-align: -webkit-center;" href="https://blog.naver.com/kimsehyun34" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="32" /></a><a style="text-align: -webkit-center;" href="https://velog.io/@about7086" target="_blank" rel="noopener">&nbsp;&nbsp; <img src="https://img.shields.io/badge/velog-#20C997?style=flat-square&amp;logo=velog&amp;logoColor=20C997" width="108" height="33" /></a></p>
+<p align="center"><a style="text-align: -webkit-center;" href="https://blog.naver.com/kimsehyun34" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="32" /></a><a style="text-align: -webkit-center;" href="https://velog.io/@about7086" target="_blank" rel="noopener">&nbsp;&nbsp; <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&amp;logo=velog&amp;logoColor=20C997" width="108" height="33" /></a></p>
 <p align="center"> 아이콘을 클릭하면 블로그로 이동됩니다 </p>
 <p>&nbsp;</p>
 
