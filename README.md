@@ -20,7 +20,7 @@
 <h3 align="center">📋Main Language<br />
 <p>&nbsp;</p>
 <p>
-  <img style="border-radius:10px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="135" height="45" /></p></h3>
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="136" height="45" /></p></h3>
 <p>&nbsp;</p>
 
 <h3 align="center">📋Secondary Languages</h3>
