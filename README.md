@@ -16,13 +16,13 @@
 
 <p>&nbsp;</p>
 
-<h3 align="center">📋Main Language<br />
+<h2 align="center">📋Main Language<br />
 <p>&nbsp;</p>
 <p>
   <img style="border-radius:10px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="170" height="50" /></p></h3>
 <p>&nbsp;</p>
 
-<h3 align="center">📋Secondary Languages</h3>
+<h2 align="center">📋Secondary Languages</h3>
 <p align="center">
   <img style="border-radius:10px" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=black" width="52" height="30" /> 
   <img style="border-radius:10px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" width="136" height="30" /> 
@@ -36,7 +36,7 @@
   <img style="border-radius:10px" src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&amp;logo=Windows 11&amp;logoColor=FFFFFF" width="109" height="25" /></p>
 
 <p>&nbsp;</p>
-<h3 align="center">🔧Additional tools</h3>
+<h2 align="center">🔧Additional tools</h3>
 <p align="center">
   <img style="border-radius:10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon AWS&amp;logoColor=" width="129" height="25" />&nbsp;
   <img style="border-radius:10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=" width="129" height="25" /> 
