@@ -19,15 +19,16 @@
 <h2 align="center">📋Main Language<br />
 <p>&nbsp;</p>
 <p>
-  <img style="border-radius:10px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="170" height="50" /></p></h3>
-<p>&nbsp;</p>
+  <img style="border-radius:50px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="170" height="50" />
+<br>
+<br>
 
 <h2 align="center">📋Secondary Languages</h3>
 <p align="center">
-  <img style="border-radius:10px" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=black" width="52" height="30" /> 
-  <img style="border-radius:10px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" width="136" height="30" /> 
-  <img style="border-radius:10px" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" width="74" height="30" /> 
-  <img style="border-radius:10px" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="86" height="30" /></p>
+  <img style="border-radius: 50px " src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=black" width="52" height="30" /> 
+  <img style="border-radius: 50px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" width="136" height="30" /> 
+  <img style="border-radius: 50px" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" width="74" height="30" /> 
+  <img style="border-radius510px" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="86" height="30" /></p>
 
 <p>&nbsp;</p>
 <h3 align="center">📋Tool</h3>
