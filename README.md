@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sehyun's%20GitHub%20GateWay&descAlignY=51&descAlign=62)
-<h1>welcome! 🤗</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Sehyun's%20GitHub%20GateWay&descAlignY=51&descAlign=62)
+
 <p><a href="https://hits.seeyoufarm.com"> <img style="float: left;" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFURY312&amp;count_bg=%235264A8&amp;title_bg=%23222141&amp;icon=github.svg&amp;icon_color=%23E7E7E7&amp;title=%EB%B0%A9%EB%AC%B8%EC%9E%90&amp;edge_flat=false" width="170" height="26" /></a></p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+<img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1'>
 
 <p>&nbsp;</p>
 <h2 align="center">✒️Blog </h3>
@@ -12,7 +12,7 @@
 <p align="center"> 아이콘을 클릭하면 블로그로 이동됩니다 </p>
 <p>&nbsp;</p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)<!-- 언어설명 -->
+<img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1'><!-- 언어설명 -->
 
 <p>&nbsp;</p>
 
@@ -48,7 +48,7 @@
 
 <p>&nbsp;</p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)<!-- 메일 -->
+<img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1'><!-- 메일 -->
 
 <h3 align="center">✉️ Mail</h3>
 
@@ -61,5 +61,6 @@
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
 
 ![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto)
