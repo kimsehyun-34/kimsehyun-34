@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p>&nbsp;</p>
-<h3 align="center">✒️Blog </h3>
+<h2 align="center">✒️Blog </h3>
 <p>&nbsp;</p>
 <p align="center"><a style="text-align: -webkit-center;" href="https://blog.naver.com/kimsehyun34" target="_blank" rel="noopener"><img style="border-radius:20px" src="https://img.shields.io/badge/Naver blog-03C75A?style=flat-square&amp;logo=Naver&amp;logoColor=FFFFFF" width="139" height="34" /></a>
   <a style="border-radius:10px, text-align: -webkit-center;" href="https://velog.io/@about7086" target="_blank" rel="noopener">&nbsp;&nbsp; <img style="border-radius:20px" src="https://img.shields.io/badge/velog-20C997?style=flat-square&amp;logo=velog&amp;logoColor=FFFFFF" width="108" height="35" /></a></p>
