@@ -65,11 +65,15 @@
 <h3 align="center">✉️ Mail</h3>
 
 <p align="center"><a href="mailto:about7086@gmail.com"> 
-  <img style="border-radius:10px" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=about7086@gmail.com" width="94" height="32" /> </a></p>
+  <img style="border-radius:10px" src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=about7086@gmail.com" width="auto" height="40" /> </a></p>
 
 <h3 style="border-radius:10px" align="center">✉️ SNS</h3>
-<p align="center"><a style="border-radius:10px,text-align: -webkit-center;" href="https://www.instagram.com/kim_sehyun_34/" target="_blank" rel="noopener">
-  <img style="border-radius:50px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=FFF" width="127" height="30" /></a></p>
+
+<p align="center">
+  <a style="border-radius:10px,text-align: -webkit-center;" href="https://www.instagram.com/kim_sehyun_34/" target="_blank" rel="noopener">
+    <img style="border-radius:50px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=FFF" width="auto" height="40" />
+  </a>
+</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
