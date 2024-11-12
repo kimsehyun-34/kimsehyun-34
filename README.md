@@ -25,7 +25,7 @@
   <img style="border-radius:50px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" width="auto" height="50" />
   <img style="border-radius:50px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=Python&amp;logoColor=white" width="auto" height="50" />
   <img style="border-radius:50px" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" width="auto" height="50" />
-  <img style="border-radius: 50px " src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=black" width="auto" height="50" /> 
+  <img style="border-radius:50px " src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=C&amp;logoColor=black" width="auto" height="50" /> 
 <br>
 <br>
 
@@ -38,8 +38,8 @@
   <img style="border-radius: 51px" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="auto" height="40" />
   <img style="border-radius: 51px" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" width="auto" height="40" />
   <img style="border-radius: 51px" src="https://img.shields.io/badge/oracle DB-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" width="auto" height="40" />
-  <img style="border-radius: 10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=white" width="auto" height="40"/> 
-  <img style="border-radius: 10px" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&amp;logo=Unity&amp;logoColor=000000" width="auto" height="40"/>
+  <img style="border-radius: 50px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=white" width="auto" height="40"/> 
+  <img style="border-radius: 50px" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&amp;logo=Unity&amp;logoColor=000000" width="auto" height="40"/>
 </p>
 
 <!--  <p>&nbsp;</p>
