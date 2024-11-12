@@ -35,9 +35,11 @@
   <img style="border-radius: 50px" src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" width="auto" height="40" /> 
   <img style="border-radius: 50px" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" width="auto" height="40" /> 
   <img style="border-radius: 50px" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" width="auto" height="40" /> 
-  <img style="border-radius510px" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="auto" height="40" />
-  <img style="border-radius:10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=" width="auto" height="40"/> 
-  <img style="border-radius:10px" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&amp;logo=Unity&amp;logoColor=000000" width="auto" height="40"/> 
+  <img style="border-radius: 51px" src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" width="auto" height="40" />
+  <img style="border-radius: 51px" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" width="auto" height="40" />
+  <img style="border-radius: 51px" src="https://img.shields.io/badge/oracle DB-F80000?style=for-the-badge&amp;logo=oracle&amp;logoColor=white" width="auto" height="40" />
+  <img style="border-radius: 10px" src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;logo=Amazon EC2&amp;logoColor=white" width="auto" height="40"/> 
+  <img style="border-radius: 10px" src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&amp;logo=Unity&amp;logoColor=000000" width="auto" height="40"/>
 </p>
 
 <!--  <p>&nbsp;</p>
