@@ -68,5 +68,4 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFF" height="40"/>
   </a>
 </p>
-
-![reversal](https://capsule-render.vercel.app/api?type=waving&section=footer&color=auto)
+![reversal](https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer)
