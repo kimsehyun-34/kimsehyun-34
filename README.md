@@ -48,7 +48,8 @@
 <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'>
 
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kimsehyun-34's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kimsehyun-34&theme=monokai-metallian&hide_border=true&short_numbers=true"/></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kimsehyun-34's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kimsehyun-34&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kimsehyun-34's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kimsehyun-34&theme=monokai-metallian&hide_border=true&short_numbers=true&locale=ko"/></br>
   
   <img alt="kimsehyun-34's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kimsehyun-34&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   <img alt="kimsehyun-34's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
