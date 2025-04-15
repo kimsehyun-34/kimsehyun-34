@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" height="40"/>
   <img src="https://img.shields.io/badge/oracle DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="40"/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon EC2&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/amazon ecs-FF9900?style=for-the-badge&logo=amazonecs&logoColor=000000" height="40"/>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000" height="40"/>
 </p>
 
