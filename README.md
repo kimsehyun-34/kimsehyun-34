@@ -54,19 +54,19 @@
   🖱️
 </h3>
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kimsehyun-34's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kimsehyun-34&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kimsehyun-34's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kimsehyun-34&theme=github-dark-blue&hide_border=true&short_numbers=true"/>
   
-  <img alt="kimsehyun-34's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kimsehyun-34&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="kimsehyun-34's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="kimsehyun-34's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kimsehyun-34&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="kimsehyun-34's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&langs_count=8&layout=compact&theme=github-dark-blue&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 
   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kimsehyun-34&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kimsehyun-34&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&border_radius=25"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&layout=donut&show_icons=true&theme=theme=github-dark-bluet&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimsehyun-34&show_icons=true&theme=github-dark-blue&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&border_radius=25"/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimsehyun-34&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF&border_radius=25" width=97%/>
-  <img src="https://streak-stats.demolab.com?user=kimsehyun-34&theme=prussian&border_radius=20&locale=ko&card_width=1000" alt="GitHub Streak" />-->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kimsehyun-34&theme=github-dark-blue&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF&border_radius=25" width=97%/>
+  <img src="https://streak-stats.demolab.com?user=kimsehyun-34&theme=github-dark-blue=20&locale=ko&card_width=1000" alt="GitHub Streak" />-->
 </p>
 
 <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'>
