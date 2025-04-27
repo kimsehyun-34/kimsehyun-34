@@ -54,12 +54,13 @@
   🖱️
 </h3>
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="kimsehyun-34's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kimsehyun-34&theme=github-dark-blue&hide_border=true&short_numbers=true"/>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" 
+    alt="kimsehyun-34's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=kimsehyun-34&theme=telegram&hide_border=true&short_numbers=true"/>
   
-  <img alt="kimsehyun-34's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kimsehyun-34&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="kimsehyun-34's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&langs_count=8&layout=compact&theme=github-dark-blue&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="kimsehyun-34's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kimsehyun-34&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true" height="192px"/>
+  <img alt="kimsehyun-34's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&langs_count=8&layout=compact&theme=github-dark-blue&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/>
 
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kimsehyun-34&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kimsehyun-34&bg_color=FFFEFE&color=434D58&line=609EF0&point=4C71F2&hide_border=true" />
 
 
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&layout=donut&show_icons=true&theme=theme=github-dark-bluet&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF"/>
