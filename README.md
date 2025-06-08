@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fkimsehyun-34?color=yellow&label=hit&size=medium" alt="방문자수" />
 </p>
-<img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'>
+<!-- <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'> -->
 
 <h2 align="center">✒️HomePage</h2>
 
@@ -19,7 +19,7 @@
 </p>
 <p align="center">아이콘을 클릭하면 블로그로 이동됩니다</p>
 
-<img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'>
+<!-- <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'> -->
 
 <h2 align="center">📋 Main Skill</h2>
 
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000" height="40"/>
 </p>
 
-<img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'>
+<!-- <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'> -->
 
 <h3 align="center">
   🔥</br>
@@ -69,7 +69,7 @@
   <img src="https://streak-stats.demolab.com?user=kimsehyun-34&theme=github-dark-blue=20&locale=ko&card_width=1000" alt="GitHub Streak" />-->
 </p>
 
-<img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'>
+<!-- <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'> -->
 
 <h3 align="center">✉️ Mail</h3>
 
