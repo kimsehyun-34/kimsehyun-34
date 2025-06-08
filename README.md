@@ -21,7 +21,7 @@
 
 <!-- <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3'> -->
 
-<h2 align="center">📋 Main Skill</h2>
+<h2 align="center">📋 Main</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" height="50"/>
@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black" height="50"/>
 </p>
 
-<h2 align="center">📋 Secondary Skill</h2>
+<h2 align="center">📋 Secondary</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" height="40"/>
