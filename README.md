@@ -10,20 +10,12 @@
 
 ---
 
-## 🛠️ Main Skills
+## 🛠️ Skills
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO v8](https://img.shields.io/badge/YOLOv8-00AEEF?style=for-the-badge&logo=yolo&logoColor=white)
-![Diffusion](https://img.shields.io/badge/Diffusion-00BFFF?style=for-the-badge&logo=&logoColor=white)
-
----
-
-## 📚 Secondary Skills
 
 ![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
