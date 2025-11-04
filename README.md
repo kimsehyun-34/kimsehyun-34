@@ -20,8 +20,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
-![CSS](https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ---
