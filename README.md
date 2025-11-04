@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 HomePage
+## HomePage
 
 - [Naver Blog](https://blog.naver.com/kimsehyun34)
 - [Personal HomePage](https://kim-sehyun.kro.kr)
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   
@@ -35,7 +35,7 @@
 
 ---
 
-## 📬 Contact
+## Contact
 
 - **Email**: [about7086@gmail.com](mailto:about7086@gmail.com)
 - **Instagram**: [@kim_sehyun_34](https://www.instagram.com/kim_sehyun_34/)
