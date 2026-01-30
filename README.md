@@ -8,6 +8,7 @@
 - [Naver Blog](https://blog.naver.com/kimsehyun34)
 - [Velog](https://velog.io/@about7086)
 
+<!--
 ---
 
 ## Skills
@@ -21,7 +22,7 @@
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-
+-->
 ---
 
 ## GitHub Stats
