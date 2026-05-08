@@ -4,7 +4,7 @@
 
 ## HomePage
 
-- [Personal HomePage](https://kim-sehyun.kro.kr)
+- [Personal HomePage](https://kimsehyun.cloud)
 - [Naver Blog](https://blog.naver.com/kimsehyun34)
 - [Velog](https://velog.io/@about7086)
 
