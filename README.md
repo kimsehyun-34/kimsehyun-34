@@ -28,8 +28,8 @@
 ## GitHub Stats
 
 <p align="center">
-  
-  <img alt="kimsehyun-34's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kimsehyun-34&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true" height="192px"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kimsehyun-34&theme=meta-light&card_height=190" alt="GitHub Streak" /></a>
+  <!-- <img alt="kimsehyun-34's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kimsehyun-34&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true" height="192px"/> -->
   <img alt="kimsehyun-34's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kimsehyun-34&langs_count=8&layout=compact&theme=github-dark-blue&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/>
 
   <!-- <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=kimsehyun-34&bg_color=FFFEFE&color=434D58&line=609EF0&point=4C71F2&hide_border=true" height="266px"/> -->
